@@ -13,4 +13,8 @@ export const routes: INavigationItem[] = [
     label: "About us",
     path: "/about/us",
   },
+  {
+    label: "Characteres",
+    path: "/characteres",
+  },
 ];

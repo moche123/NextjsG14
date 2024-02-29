@@ -10,5 +10,5 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode;
 }>) {
-  return <div className="py-3 bg-blue-950 text-white">{children}</div>;
+  return <div>{children}</div>;
 }
